@@ -1,0 +1,14 @@
+{
+  "name": "rnelson0-linuxfw",
+  "version": "0.1.0",
+  "author": "rnelson0",
+  "summary": "Base linux firewall",
+  "license": "Apache 2.0",
+  "source": "https://github.com/rnelson0/linuxfw",
+  "project_page": "https://github.com/rnelson0/linuxfw",
+  "issues_url": "https://github.com/rnelson0/linuxfw/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
